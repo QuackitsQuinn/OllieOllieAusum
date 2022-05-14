@@ -1,6 +1,8 @@
 Hey! Im ollie. I am a high school student that cant focus on school work so i code instead.
 
-I currently am learning java, and I have learned python.
+I know python (yet still cant figure out how to use lambda lol)
+
+I currently am learning java.
 
 snakes, snake, snek
 

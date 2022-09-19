@@ -1,6 +1,6 @@
 Hey! Im ollie. I am a high school student that cant focus on school work so i code instead.
 
-I know python and java
+I know python and java. Does that mean I know it well? No.
 
 snakes, snake, snek
 <!---

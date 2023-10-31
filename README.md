@@ -1,6 +1,6 @@
 Hey! Im Quinn. I am a high school student that cant focus on school work so i code instead.
 
-I know python, java, C#, and bits of rust
+I know Rust, Java, and Python.
 
 snakes, snake, snek
 <!---

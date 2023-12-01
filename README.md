@@ -2,7 +2,7 @@ Hey! Im Quinn. I am a high school student that cant focus on school work so i co
 
 I know Rust, Java, and Python.
 
-Im currently working on a NES emulator written in rust!
+Im currently working on a game named WHITESPACE
 
 
 snakes, snake, snek

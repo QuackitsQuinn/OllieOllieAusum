@@ -1,8 +1,8 @@
 Hey! Im Quinn. I am a high school student that cant focus on school work so i code instead.
 
-I know Rust, Java, and Python.
+I know Rust, Java, and Python (but I like rust the most)
 
-Im currently working on a game named WHITESPACE
+Im constantly working on stuff, and it changes a lot!
 
 
 snakes, snake, snek

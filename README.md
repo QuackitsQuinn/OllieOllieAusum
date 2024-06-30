@@ -4,6 +4,7 @@ I know Rust, Java, Python, and bits of C. (Currently, I use rust for almost ever
 
 Im constantly working on stuff, and it changes a lot! :)
 
+If you want to contact me my @ is quackitsquinn on pretty much every platform!
 
 snakes, snake, snek 🐍
 <!---

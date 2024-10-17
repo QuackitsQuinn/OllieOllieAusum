@@ -1,12 +1,12 @@
-Hey! Im Quinn. I am a high school student that is facinated with programming, so I do it in my free time.
+Hey! Im Quinn. (or Ivy. either work.) Im a future computer science student that dabbles in everything ranging from malware development / reverse engineering to game design to robotics.
 
-I know Rust, Java, Python, and bits of C. (Currently, I use rust for almost everything.)
+I mostly like working on low-level stuff and am currently working on a kernel on and off.
 
-Im constantly working on stuff, and it changes a lot! :)
+I have used Go, Rust (favorite), C, Java, and Python.
 
-If you want to contact me my @ is quackitsquinn on pretty much every platform!
+If you want to contact me, my @ is quackitsquinn on all platforms.
 
-snakes, snake, snek 🐍
+snakes, snake, snek :snake:
 <!---
 QuackitsQuinn/QuackitsQuinn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
